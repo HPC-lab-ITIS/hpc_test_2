@@ -7,5 +7,6 @@
 
 int main(int argc, char** argv)
 {
+    const int n = 1024 * 1024; //размер массива, от которого считается префиксная сумма
     return 0;
 }
